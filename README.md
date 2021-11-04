@@ -1,7 +1,7 @@
 ### Hi there 👋
 | Top Langs |   History   |
 | :-------- | :------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torika2&layout=compact) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torika2&show_icons=true&theme=radical)
+|  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torika2&show_icons=true&theme=radical)
 <!--
 **torika2/torika2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
